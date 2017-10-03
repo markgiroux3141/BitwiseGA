@@ -1,0 +1,6 @@
+C:\Users\Mark\documents\visual studio 2015\Projects\Bitwise GA\Bitwise GA\bin\Release\Bitwise GA.exe.config
+C:\Users\Mark\documents\visual studio 2015\Projects\Bitwise GA\Bitwise GA\bin\Release\Bitwise GA.exe
+C:\Users\Mark\documents\visual studio 2015\Projects\Bitwise GA\Bitwise GA\bin\Release\Bitwise GA.pdb
+C:\Users\Mark\documents\visual studio 2015\Projects\Bitwise GA\Bitwise GA\obj\Release\Bitwise GA.exe
+C:\Users\Mark\documents\visual studio 2015\Projects\Bitwise GA\Bitwise GA\obj\Release\Bitwise GA.pdb
+C:\Users\Mark\documents\visual studio 2015\Projects\Bitwise GA\Bitwise GA\obj\Release\Bitwise GA.csprojResolveAssemblyReference.cache
